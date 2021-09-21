@@ -1,2 +1,3 @@
 Hola equipo, este es mi repo!
 Linea agregada Maria Eusse
+Gracias!, por favor todos a hacer el commit de sus cambios, dejando sus saludos en este txt.
